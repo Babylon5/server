@@ -1,10 +1,12 @@
 # README
+This is the first version of a restful api for some fancy app to organize meetings. It lacks some basic functionality, but most parts work like a charm.
 
 ## TODO
-
+ + remove Certificates (there are some examples within the repository, but PLEASE use your own)
  + Pagination
  + Exceptions/Errordecorator from flask
  + Unittests/Mockups
+ + implement POST/PUSH methods (it's not possible to add new events etc.)
 
 ## Install & Run
 
